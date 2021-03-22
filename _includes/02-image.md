@@ -1,1 +1,1 @@
-[pythonocat](https://octodex.github.com/images/pythocat.png)
+[pythonocat](https://octodex.github.com/pythocat/)
