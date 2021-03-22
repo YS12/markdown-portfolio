@@ -1,2 +1,2 @@
-![pythonocat](https://octodex.github.com/pythocat/)
+![pythonocat](https://octodex.github.com/images/pythocat.png)
 ###All octocats are belong to Github. I'm just borrowing for cuddles.###
