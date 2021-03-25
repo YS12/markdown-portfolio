@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+I've been thinking about whether it's better to use a **single array** of pixels to do _image processing computations_ in Javascript, or **three (or four) arrays** with an array holding a single channel. 
